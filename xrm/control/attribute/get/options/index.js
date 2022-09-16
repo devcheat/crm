@@ -1,0 +1,1 @@
+Xrm.Page.getAttribute("${fieldname}").getOptions();
