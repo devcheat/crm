@@ -1,7 +1,6 @@
 # **Unit testing custom plug-ins**
 ---
-October 20, 2013 in Microsoft Dynamics CRM, CRM 2011, programming, C#, unit testing
-In my last post, I showed how to unit test a Microsoft Dynamics CRM custom workflow activity using Visual Studio and Moq. In this post I will show you how to unit test a Dynamics CRM plug-in. For this example we'll be using the sample FollowupPlugin class in the CRM 2011 SDK, but the principles I will demonstrate are applicable to any plug-in.
+ In this post I will show you how to unit test a Dynamics CRM plug-in. For this example we'll be using the sample FollowupPlugin class in the CRM 2011 SDK, but the principles I will demonstrate are applicable to any plug-in.
 
 ## Setting up the projects
 
